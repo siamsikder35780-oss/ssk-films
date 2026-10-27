@@ -1,0 +1,6 @@
+{
+  "name": "SiamFlix — SSK Films",
+  "description": "Modern movie streaming platform featuring Trending, Bengali, Hindi, English, and Korean cinema, personal watchlist, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
